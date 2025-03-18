@@ -54,7 +54,7 @@ notebooks/.ipynb_checkpoints/
 
 # Data files
 *.csv
-*.json
+# *.json
 *.xlsx
 *.xls
 

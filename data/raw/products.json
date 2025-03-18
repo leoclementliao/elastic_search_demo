@@ -1,0 +1,27 @@
+[
+    {
+        "product_id": "P001",
+        "title": "High-Performance Laptop",
+        "description": "Equipped with the latest generation processor, 16GB RAM, 512GB SSD, 15.6-inch HD display, lightweight and portable, suitable for business and daily use."
+    },
+    {
+        "product_id": "P002",
+        "title": "Wireless Bluetooth Headphones",
+        "description": "Active noise cancellation, 40-hour battery life, wireless charging support, touch controls, high-quality audio output, comfortable fit, perfect for commuting and sports."
+    },
+    {
+        "product_id": "P003",
+        "title": "Smart Watch",
+        "description": "Heart rate monitoring, activity tracking, sleep analysis, water-resistant design, long battery life, mobile payment support, fashionable design, ideal for health management and daily wear."
+    },
+    {
+        "product_id": "P004",
+        "title": "Portable Power Bank",
+        "description": "20000mAh large capacity, fast charging support, dual USB output, Type-C interface, smart temperature control, compact and lightweight, perfect for travel and daily backup."
+    },
+    {
+        "product_id": "P005",
+        "title": "Mechanical Keyboard",
+        "description": "RGB backlight, mechanical switches, ergonomic design, programmable keys, aluminum case, PBT keycaps, suitable for gaming and office use."
+    }
+] 
